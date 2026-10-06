@@ -1,3 +1,5 @@
 Customer: Anne Dula
 Total: 99.0
 Is the total over 100? false
+Discount applied for student.
+You have not spent over 100.
