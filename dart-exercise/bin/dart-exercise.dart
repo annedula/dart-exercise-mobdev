@@ -16,4 +16,10 @@ void main() {
   } else {
     print('No discount applied.');
   }
+
+   if (isOver100) {
+    print('You have spent over 100!');
+  } else {
+    print('You have not spent over 100.');
+  }
 }
