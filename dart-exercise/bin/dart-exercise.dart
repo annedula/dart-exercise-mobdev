@@ -18,8 +18,8 @@ void main() {
   }
 
    if (isOver100) {
-    print('You have spent over 100!');
+    print('You have spent over 100');
   } else {
-    print('You have not spent over 100.');
+    print('You have not spent over 100');
   }
 }
