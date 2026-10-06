@@ -10,4 +10,10 @@ void main() {
   print('Customer: $studentName');
   print('Total: $total');
   print('Is the total over 100? $isOver100');
+
+  if (isStudent) {
+    print('Discount applied for student.');
+  } else {
+    print('No discount applied.');
+  }
 }
